@@ -1,0 +1,62 @@
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe.config
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Form1.resources
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Properties.Resources.resources
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\visual studio\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Resource1.resources
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe.config
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.pdb
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Form1.resources
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Properties.Resources.resources
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Resource1.resources
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.exe
+C:\Users\pc\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe.config
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Form1.resources
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Properties.Resources.resources
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Resource1.resources
+C:\Users\user\Desktop\YazılımTestOdev2\YazılımTestOdev2\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.GenerateResource.Cache
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe.config
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.exe
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.pdb
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.pdb
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csprojResolveAssemblyReference.cache
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Form1.resources
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Properties.Resources.resources
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Resource1.resources
+G:\YazılımTestOdev2\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe.config
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Form1.resources
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Properties.Resources.resources
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Resource1.resources
+C:\Users\user\Desktop\YazılımTestOdev2 SON\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe.config
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.exe
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\bin\Debug\YazılımTestOdev2.pdb
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Form1.resources
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Properties.Resources.resources
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.Resource1.resources
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\YazılımTestOdev2 BİTTİ\YazılımTestOdev2\obj\Debug\YazılımTestOdev2.csproj.CoreCompileInputs.cache
